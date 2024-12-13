@@ -1,1 +1,1 @@
-# airqualityprediction-app
+# airqualityprediction-app.streamlit/config.toml
